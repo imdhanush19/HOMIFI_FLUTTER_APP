@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "662298370437",
+    "project_id": "dhanush-893a1",
+    "storage_bucket": "dhanush-893a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662298370437:android:374932db262c13cbe5a4ec",
+        "android_client_info": {
+          "package_name": "com.example.osapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTDQ73P0XJlOfuDg3kjdbP2h_BUUFn9sg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
